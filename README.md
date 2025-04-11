@@ -4,10 +4,11 @@
 ## 🧠 Team Name and Members
 **Team Name:** [Insert Your Assigned Team Name from eLC]  
 **Team Members:**  
-- [Name 1] - [GitHub Profile Link]  
-- [Name 2] - [GitHub Profile Link]  
-- [Name 3] - [GitHub Profile Link]  
-- [Name 4] - [GitHub Profile Link]
+- [Summer Arrington] - [@SummerA100]  
+- [Nivi Ganesan] - [@niviganesan]  
+- [Rachel Cox] - [@rachellcox]  
+- [Katya Tokarev] - [@katyatokarev]
+- [Jack Delinsky] - [@JackDelinsky]
 
 ---
 
