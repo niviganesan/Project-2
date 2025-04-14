@@ -4,11 +4,11 @@
 ## 🧠 Team Name and Members
 **Team Name:** [Insert Your Assigned Team Name from eLC]  
 **Team Members:**  
-- [Summer Arrington] - [@SummerA100]  
-- [Nivi Ganesan] - [@niviganesan]  
-- [Rachel Cox] - [@rachellcox]  
-- [Katya Tokarev] - [@katyatokarev]
-- [Jack Delinsky] - [@JackDelinsky]
+- [Summer Arrington] - [@SummerA100](https://github.com/SummerA100) 
+- [Nivi Ganesan] - [@niviganesan](https://github.com/niviganesan)
+- [Rachel Cox] - [@rachellcox](https://github.com/rachellcox) 
+- [Katya Tokarev] - [@katyatokarev](https://github.com/katyatokarev)
+- [Jack Delinsky] - [@JackDelinsky](https://github.com/JackDelinsky)
 
 ---
 
@@ -35,24 +35,18 @@ This dataset contains baby name statistics collected by the New York City Depart
 ## ❓ Project Questions and Significance
 
 ### **Question 1:**  
-**How have the most popular baby names changed across different ethnic groups over the past 20 years in New York City?**
+**Is there a correlation between certain baby names and specific ethnic groups?**
 
 **Why it’s important:**  
-This question helps us understand how cultural backgrounds influence naming practices in one of the most diverse cities in the U.S. It reflects broader social patterns, including immigration, media influences, and community identity. Tracking name trends by ethnicity offers valuable insight into evolving cultural values and how different groups preserve or adapt traditions.
-
-**Tied to Dataset:**  
-The dataset provides `Ethnicity`, `Year of Birth`, `Child's First Name`, and `Count`—perfect for visualizing naming trends over time across different groups.
+Exploring the association between baby names and ethnic groups can shed light on cultural traditions and naming conventions within diverse communities. Names often carry significant cultural heritage, and certain names may be predominantly chosen within specific ethnic groups. Understanding these patterns can be valuable for sociological research, marketing strategies, and fostering cultural appreciation. The dataset includes information segmented by sex and ethnic group, making it suitable for this type of analysis.
 
 ---
 
 ### **Question 2:**  
-**Is there a pattern in gender name popularity—are boy names or girl names more likely to remain in the top 10 for multiple consecutive years?**
+**Is there a correlation between baby name popularity and major events or celebrities during that time?(Analytical)**
 
 **Why it’s important:**  
-This question explores the idea of naming stability and gender-based cultural tendencies. Are boys' names more rooted in tradition? Are girls’ names more trend-driven? These insights can inform understandings of social norms, identity, and cultural consistency.
-
-**Tied to Dataset:**  
-With `Rank`, `Gender`, and `Year of Birth`, we can examine how long names stay at the top. This allows for visualizing stability vs. variability in popular names by gender.
+This analytical question explores whether external cultural influences, such as major news events, popular media, or celebrity prominence, have a measurable impact on the frequency of specific baby names over time. By analyzing trends in baby name popularity and comparing them to timelines of significant events (e.g., a celebrity becoming widely known, a movie release, a political figure rising in prominence), the analysis seeks to uncover patterns of cause-and-effect or influence in naming behavior.
 
 ---
 
