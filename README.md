@@ -4,11 +4,11 @@
 ## 🧠 Team Name and Members
 **Team Name:** [Insert Your Assigned Team Name from eLC]  
 **Team Members:**  
-- [Summer Arrington] - [@SummerA100](https://github.com/SummerA100) 
-- [Nivi Ganesan] - [@niviganesan](https://github.com/niviganesan)
-- [Rachel Cox] - [@rachellcox](https://github.com/rachellcox) 
-- [Katya Tokarev] - [@katyatokarev](https://github.com/katyatokarev)
-- [Jack Delinsky] - [@JackDelinsky](https://github.com/JackDelinsky)
+- Summer Arrington - [@SummerA100](https://github.com/SummerA100) 
+- Nivi Ganesan - [@niviganesan](https://github.com/niviganesan)
+- Rachel Cox - [@rachellcox](https://github.com/rachellcox) 
+- Katya Tokarev - [@katyatokarev](https://github.com/katyatokarev)
+- Jack Delinsky - [@JackDelinsky](https://github.com/JackDelinsky)
 
 ---
 
