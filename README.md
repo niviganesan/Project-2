@@ -82,8 +82,8 @@ This analytical question explores whether external cultural influences, such as 
 
 - Added a calculation titled UPPER to combine the names that were added in twice, once for lowercase and once for uppercase (total count for one name)
 UPPER([Child's First Name])
-- Changed Year of Birth from Integer to DATE as it was intended to be analyzed yearly 
-Clicked the icon to the left of year of birth and selected date/time (icon looks like a calendar now) 
+- Changed Year of Birth from Integer to DATE as it was intended to be analyzed yearly,
+Clicked the icon to the left of year of birth and selected date/time (icon looks like a calendar now),
 Time of birth was not relevant to us, only the year
 
 
