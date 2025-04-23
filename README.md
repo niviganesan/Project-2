@@ -80,25 +80,38 @@ This analytical question explores whether external cultural influences, such as 
 
 ## 🛠️ Data Manipulation and Preparation
 
-To prepare the dataset for analysis:
-- Filtered out incomplete or invalid records
-- Calculated how many years each name remained in the top 10
-- Grouped data by ethnicity, gender, and year to create trend comparisons
-- Exported summarized tables and pivoted formats for easier Tableau analysis
+- Added a calculation titled UPPER to combine the names that were added in twice, once for lowercase and once for uppercase (total count for one name)
+UPPER([Child's First Name])
+- Changed Year of Birth from Integer to DATE as it was intended to be analyzed yearly 
+Clicked the icon to the left of year of birth and selected date/time (icon looks like a calendar now) 
+Time of birth was not relevant to us, only the year
+
 
 ---
 
 ## 📈 Analysis and Results
 
-**Tableau Visualizations Include:**
-- Line graphs of top baby names over time by ethnicity
-- Bump charts showing rank changes across years
-- Bar charts comparing top 10 name retention across genders
+**Question 1**
+Overall, the data reveals how name choices can reflect cultural identity, familial heritage, and community norms:
+Hispanic Names: Luna, Camila, Isabella, Sofia — all of Latin/Spanish origin, reflecting cultural preservation.
+White Non-Hispanic Names: Emma, Olivia, Ava are most common.
+Cross-Ethnic Popularity: Sofia and Mia appear across multiple groups.
+Asian/Pacific Islander Names: Ethan, Jayden, Ryan, Kevin, Chloe, Olivia, Sophia — likely influenced by Western naming norms.
 
-**Key Takeaways:**
-- Some ethnic groups show more consistency in top names, while others display more year-to-year variation.
-- Boys' names often stay in the top 10 longer than girls' names.
-- Cultural and media influences (celebrities, TV shows, etc.) play a role in sudden popularity spikes.
+
+**Question 2**
+Our analysis shows a clear link between pop culture phenomena and baby name trends over the last decade:
+Zendaya: Name spiked in 2013–2014 during peak TV popularity (KC Undercover, Zapped)
+Zuri: Rose after Jessie aired (2011), surged again in 2020 (due to pandemic rewatching)
+Insight: Media and celebrities influence baby name trends
+These examples highlight how major cultural moments can directly impact naming trends. Parents may be inspired by beloved characters or celebrities who represent traits they admire or find aspirational.
+
+
+**Conclusion**
+Our analysis of New York City baby names (2011–2021) reveals strong correlations between name popularity and both ethnic background and cultural events.
+Names like Luna, Sofia, and Ethan highlight how heritage and cultural preservation influence naming within different communities.
+Trends also reflect media and celebrity impact, with names such as Zendaya and Zuri showing rises in popularity during periods of major pop culture presence.
+These insights can inform future research in sociology, marketing, and cultural studies, as names serve as a reflection of both identity and societal trends
 
 ---
 
