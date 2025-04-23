@@ -31,6 +31,9 @@
 - `Count` (Integer): Number of babies given that name
 - `Rank` (Integer): Ranking of that name within its category
 
+![image](https://github.com/user-attachments/assets/b960ee40-4db0-4360-ac72-d35e51b8dfb4)
+
+
 This dataset contains baby name statistics collected by the New York City Department of Health and Mental Hygiene. It tracks name frequency over time by gender and ethnic group.
 
 ---
@@ -64,6 +67,8 @@ Exploring the association between baby names and ethnic groups can shed light on
 -From the years 2015-2021, the most common name was ‘Liam’ and again, it was most popularly used by people who identified as Hispanic.
 -Names such as esmeralda with origins from spanish and/or latin are more common in hispanic population → possible explanation could be to preserve culture 
 
+![image](https://github.com/user-attachments/assets/0495e59c-2225-47f8-8364-6b3deb01abac)
+
 --
 
 ### **Question 2:**  
@@ -79,6 +84,8 @@ This analytical question explores whether external cultural influences, such as 
 -Ethan was overall the most popular baby name, with 22,149 babies. This was most used by people of Hispanic Ethnicity. 
 -Biblical names popular with white and hispanic due to large christian populations 
 
+![image](https://github.com/user-attachments/assets/ec4cc66d-6eba-4962-bc98-feea6fecaf9c)
+
 ---
 
 ## 🛠️ Data Manipulation and Preparation
@@ -89,6 +96,7 @@ UPPER([Child's First Name])
 Clicked the icon to the left of year of birth and selected date/time (icon looks like a calendar now),
 Time of birth was not relevant to us, only the year
 
+![image](https://github.com/user-attachments/assets/2dca71a5-7a3c-4d54-b746-677591687fcf)
 
 ---
 
@@ -121,7 +129,7 @@ These insights can inform future research in sociology, marketing, and cultural 
 ## 📦 Tableau Packaged Workbook
 
 The Tableau Packaged Workbook file (`.twbx`) is included in this repository:  
-👉 [Link to the Tableau `.twbx` file here once uploaded]
+👉 []
 
 ---
 
