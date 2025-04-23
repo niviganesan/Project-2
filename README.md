@@ -2,7 +2,7 @@
 # MIST 4610: Group Project 2 - Popular Baby Names
 
 ## 🧠 Team Name and Members
-**Team Name:** [Insert Your Assigned Team Name from eLC]  
+**Team Name:** Sp25_21482_Group2 
 **Team Members:**  
 - Summer Arrington - [@SummerA100](https://github.com/SummerA100) 
 - Nivi Ganesan - [@niviganesan](https://github.com/niviganesan)
