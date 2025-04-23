@@ -41,33 +41,40 @@ This dataset contains baby name statistics collected by the New York City Depart
 Exploring the association between baby names and ethnic groups can shed light on cultural traditions and naming conventions within diverse communities. Names often carry significant cultural heritage, and certain names may be predominantly chosen within specific ethnic groups. Understanding these patterns can be valuable for sociological research, marketing strategies, and fostering cultural appreciation. The dataset includes information segmented by sex and ethnic group, making it suitable for this type of analysis.
 
 **Observation 1**
-White Non-Hispanic (purple) tends to dominate across most names, especially top-ranking ones.
-Hispanic (green) is also highly represented, sometimes being the second-largest ethnic group for a name.
-Black Non-Hispanic (yellow) is consistently present across many names but in smaller proportions.
-Asian and Pacific Islander groups (blue and orange) appear less frequently and mostly in lower proportions, suggesting some names are less common in those communities.
-This order makes sense because it ranks from highest to lowest population by race according to the US Census
+-White Non-Hispanic (purple) tends to dominate across most names, especially top-ranking ones.
+-Hispanic (green) is also highly represented, sometimes being the second-largest ethnic group for a name.
+-Black Non-Hispanic (yellow) is consistently present across many names but in smaller proportions.
+-Asian and Pacific Islander groups (blue and orange) appear less frequently and mostly in lower proportions, suggesting some names are less common in those communities.
+-This order makes sense because it ranks from highest to lowest population by race according to the US Census
 
 **Observation 2**
-Ethan, Jacob, and Micheal are the most popular baby names 
-They are also all biblical names 
-The most popular baby name is ‘Ethan’ and this name was most commonly used by people who identified as Hispanic. This includes years from 2011-2021.
-Top names like LUNA, ISABELLA, EMMA, and SOFIA have the highest overall counts, indicating strong popularity across the U.S.
-Hispanic and White Non-Hispanic groups make up the majority of counts for most names.
-LUNA, CAMILA, and SOFIA show especially high counts among Hispanic individuals.
-EMMA, OLIVIA, and AVA are more common among White Non-Hispanic groups.
-Some names, like SOFIA and MIA, demonstrate balanced usage across multiple ethnicities, suggesting cross-cultural appeal.
-Asian and Pacific Islander and Black Non-Hispanic groups are present but have smaller representation overall.
-Name popularity declines steadily from left to right, with the top 10 names significantly more common than those further down the chart.
-Names such as esmeralda with origins from spanish and/or latin are more common in hispanic population → possible explanation could be to preserve culture 
-From the years 2015-2021, the most common name was ‘Liam’ and again, it was most popularly used by people who identified as Hispanic.
+-Ethan, Jacob, and Micheal are the most popular baby names 
+-They are also all biblical names 
+-The most popular baby name is ‘Ethan’ and this name was most commonly used by people who identified as Hispanic. This includes years from 2011-2021.
+-Top names like LUNA, ISABELLA, EMMA, and SOFIA have the highest overall counts, indicating strong popularity across the U.S.
+-Hispanic and White Non-Hispanic groups make up the majority of counts for most names.
+-LUNA, CAMILA, and SOFIA show especially high counts among Hispanic individuals.
+-EMMA, OLIVIA, and AVA are more common among White Non-Hispanic groups.
+-Some names, like SOFIA and MIA, demonstrate balanced usage across multiple ethnicities, suggesting cross-cultural appeal.
+-Asian and Pacific Islander and Black Non-Hispanic groups are present but have smaller representation overall.
+-Name popularity declines steadily from left to right, with the top 10 names significantly more common than those further down the chart.
+-Names such as esmeralda with origins from spanish and/or latin are more common in hispanic population → possible explanation could be to preserve culture 
+-From the years 2015-2021, the most common name was ‘Liam’ and again, it was most popularly used by people who identified as Hispanic.
 
-
+--
 
 ### **Question 2:**  
 **Is there a correlation between baby name popularity in New York and major events or celebrities during that time?**
 
 **Why it’s important:**  
 This analytical question explores whether external cultural influences, such as major news events, popular media, or celebrity prominence, have a measurable impact on the frequency of specific baby names over time. By analyzing trends in baby name popularity and comparing them to timelines of significant events (e.g., a celebrity becoming widely known, a movie release, a political figure rising in prominence), the analysis seeks to uncover patterns of cause-and-effect or influence in naming behavior.
+
+**Observation**
+-Zendaya (name) was super popular in 2013-2014 → KC Undercover, Zapped, Shake It Up, Red Carpets, (scandal with the tv show host and the hair comment gave her some exposure) 
+-Zuri (name) grew in popularity from 2011-2015 then decreased in 2016 went back up from 2017-2018 then decreased in 2019 then dramatically increased in 2020 
+-Alessandro popular every 2 years it seems for 2 years 2015-2016 then none in 2017 then again in 2018-2019 and none in 2020 then back in 2021
+-Ethan was overall the most popular baby name, with 22,149 babies. This was most used by people of Hispanic Ethnicity. 
+-Biblical names popular with white and hispanic due to large christian populations 
 
 ---
 
