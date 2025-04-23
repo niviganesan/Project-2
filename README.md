@@ -126,13 +126,6 @@ These insights can inform future research in sociology, marketing, and cultural 
 
 ---
 
-## 📦 Tableau Packaged Workbook
-
-The Tableau Packaged Workbook file (`.twbx`) is included in this repository:  
-👉 []
-
----
-
 ## 📚 Citations and References
 
 - U.S. Government Open Data – Popular Baby Names  
