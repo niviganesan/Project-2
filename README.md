@@ -38,6 +38,18 @@ This dataset contains baby name statistics collected by the New York City Depart
 
 ---
 
+## 🛠️ Data Manipulation and Preparation
+
+- Added a calculation titled UPPER to combine the names that were added in twice, once for lowercase and once for uppercase (total count for one name)
+UPPER([Child's First Name])
+- Changed Year of Birth from Integer to DATE as it was intended to be analyzed yearly,
+Clicked the icon to the left of year of birth and selected date/time (icon looks like a calendar now),
+Time of birth was not relevant to us, only the year
+
+![image](https://github.com/user-attachments/assets/2dca71a5-7a3c-4d54-b746-677591687fcf)
+
+---
+
 ## ❓ Project Questions and Significance
 
 ### **Question 1:**  
@@ -85,18 +97,6 @@ This analytical question explores whether external cultural influences, such as 
 -Biblical names popular with white and hispanic due to large christian populations 
 
 ![image](https://github.com/user-attachments/assets/ec4cc66d-6eba-4962-bc98-feea6fecaf9c)
-
----
-
-## 🛠️ Data Manipulation and Preparation
-
-- Added a calculation titled UPPER to combine the names that were added in twice, once for lowercase and once for uppercase (total count for one name)
-UPPER([Child's First Name])
-- Changed Year of Birth from Integer to DATE as it was intended to be analyzed yearly,
-Clicked the icon to the left of year of birth and selected date/time (icon looks like a calendar now),
-Time of birth was not relevant to us, only the year
-
-![image](https://github.com/user-attachments/assets/2dca71a5-7a3c-4d54-b746-677591687fcf)
 
 ---
 
